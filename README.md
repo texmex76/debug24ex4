@@ -20,8 +20,4 @@ There are three parts to this exercise:
 - [ ] Check your programs and the report word count using the tools in `test/`
 - [ ] **Provide detailed build and run instructions for linux CLI**
 
-# Part 1
-
-# Part 2
-
-# Part 3
+For more details, read the exercise sheet!
